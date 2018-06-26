@@ -1,0 +1,40 @@
+
+body{
+  background-color: Aqua;
+
+font-family: 'Baloo', cursive;
+}
+  header {
+    background-color: DodgerBlue ;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+ 
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+  tr:nth-child(even) {background-color: LightBlue ;}
+
+
+footer {
+    background-color: DodgerBlue;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+body{
+  background-image: url('http://backgroundcheckall.com/wp-content/uploads/2017/12/pawprint-background-7.jpg');
+opacity: 0.90;
+}
+div{
+   opacity: 0.70;
+}
+/*  th {
+    background-color: pink;
+    color: black;
+}
+/* no vale robar codigo !!!! */

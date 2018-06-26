@@ -1,0 +1,20 @@
+.panelEjercicio {
+  background-color: green;
+  color: yellow;
+  border-radius: 5px;
+  width: 45%;
+  display: inline-block;
+  /*  overflow: auto; */
+}
+
+/*
+li{
+  width: 300px; 
+}
+*/
+body{
+  background-image: url('http://backgroundcheckall.com/wp-content/uploads/2017/12/creative-commons-background-music-1.jpg');
+}
+div{
+   opacity: 0.70;
+}

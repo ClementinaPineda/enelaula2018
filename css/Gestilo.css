@@ -1,0 +1,15 @@
+
+body{
+   background-image: url("https://image.freepik.com/vector-gratis/textura-de-madera_23-2147504083.jpg");
+  font-family: 'Hanalei Fill', cursive;
+  
+  color: black;
+font-size: 28px ;
+}
+header {
+    background-color: yellow ;
+    padding: 20px;
+    text-align: righter;
+    font-size: 33px;
+    color: red;
+}  

@@ -1,0 +1,18 @@
+
+body{
+  background-image: url("http://www.medrivne.com.ua/uploads/p_190_13415226.jpg");
+  /*background-color: black; */
+
+font-family: 'Baloo', cursive;
+}
+  header {
+    /*background-image: url("https://www.freepik.es/vector-gratis/fondo-salpicado-acuarela-abstracta-salpicada_2461975.htm'>Vector de Fondo creado por rawpixel.com");
+    background-color: Black ; */
+    
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+  
+/* no vale robar codigo !!!! */
